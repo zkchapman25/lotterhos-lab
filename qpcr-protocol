@@ -86,3 +86,34 @@ Use filtered tips for every step of the protocol to aviod contamination
   b. Cap, vortex and spin 8 strip (A1-H1)
   c. Use the multichannel pipette to pipette 20.25 ul of the master mix strip tubes into each of the reaction mix strip tube wells (other 5 strip tubes) 
   d. Notes: change the single channel pipette tip every two wells, our 100 multichannel doesn't go to 2 decimal places so do 20.2 into each well
+
+Other notes: 
+- Replace each strip cap after pipetting into the column
+- Use new tips every column
+- Cover primers and probes with aluminum foil during any stopping points (light sensitive)
+
+10. Pipette 2.25ul of DNA into each well from the plate (first 4 columns A-H, 5th column A-D) (image of plate plan here) 
+  a. Note: Replace rubber caps of plate after pipetting each column to avoid contamination with anything in the hood
+
+11. Use the single channel pipette to pipette 2.25ul of sample 36 into E5
+  a. Note: Put DNA back in the freezer after pipetting into wells
+
+12. Pipette 25ul of the Dermo parasite positive made at the begining into well F5
+
+13. Pipette 25ul of the MSX parasite positive made at the beginning into well G5
+
+14. Prepare the qPCR plate by transfering 10ul of each column into its two assigned columns (? reword to make clearer)
+  1: into 1 and 2
+  2: into 3 and 4
+  3: into 5 and 6
+  4: into 7 and 8
+  5: into 9 and 10
+  6: into 11 and 12
+^ clarify this, not really sure what it is
+
+15. Seal the qPCR plate with sealing film
+
+16. Machine protocol
+
+17. Software protocol
+
