@@ -1,0 +1,88 @@
+---
+title: "qPCR protocol"
+---
+
+## ImageJ & Mapping Oyster Shells
+##### Co-authored by Zoe Chapman (Fall 2024 Co-op)
+This tutorial provides instructions for running a qPCR plate, used to investigate disease prevalence of microparasites in the eastern oyster gill tissue.
+
+##### **Equipment** {.unnumbered}
+
+-   Standard stocks (from the company)
+
+-   Disease positives (is this different?) (also from the company)
+
+-   Oyster DNA tissue
+
+-   Two rolls of different colored tapes
+
+-   6 rows of PCR strip tubes
+
+-   6 sets of PCR strip tube caps
+
+-   1 1.5ml DNA LoBind tube
+
+-   Strip tube holder
+
+-   Multichannel pipette
+
+-   Other pipettes (come back for specifics)
+
+-   Pipette tips
+
+-   Buffer TE
+
+-   Molecular grade H2O
+
+::: {.callout}
+## Helpful but not required materials {.unnumbered}
+-   anything?
+:::
+
+##### Setting up
+The first step in the protocol is to set up your work station in the hood and sterilize your equipment
+
+::: {.callout-important}
+## Scale + Level
+
+:::
+
+##### **Photograph Protocol** 
+1. Tape off a section of the hood dedicated to parasite handling and label it 'Parasite' to reduce the risk of contamination
+
+2. Place all of your work materials (pipettes, tips, etc.) in the hood to be sterilized
+
+3. Turn on the UV light and fan at the top of the hood
+
+4. Close the hood and let it sterilize for 20 minutes
+
+![Example image showing both valves, ID tag, and color scale card](img/1_polydora_frame_example.png) (add image here of taped off section)
+
+##### **Preparing disease positives and standards** 
+5. To rehydrate the disease positives, there must be 2.25ul total solution in the well at a 1:10 ratio (DNA : H2O) <- H2o or TE? WHich one did we do?
+
+::: {.callout-note}
+## Calculating the solution amounts for the disease positives
+Put what we did here (2.25ul of 10ng/ul DNA, 20.25ul of H2O for MSX), (1ul of 10ng/ul DNA, 99ul of H2O for Dermo)
+:::
+
+6. Fill up an ice bucket or tray and place tube rack on top
+
+7. Pipette into a thin falcon tube (or LoBind tube): 
+  a. 600 ul master mix
+  b. 360 ul molecular water
+  c. 60 ul Dermo
+  d. 60 ul MSX (positives i think)
+
+8. Spin down the MSX tacman 20x Assay
+
+::: {.callout-note}
+## Contamination Awareness
+Use filtered tips for every step of the protocol to aviod contamination
+:::
+
+9. Make the reaction mix using the Kollars method: 
+  a. Pipette 133ul into A1-H1 (single channel) 
+  b. Cap, vortex and spin 8 strip (A1-H1)
+  c. Use the multichannel pipette to pipette 20.25 ul of the master mix strip tubes into each of the reaction mix strip tube wells (other 5 strip tubes) 
+  d. Notes: change the single channel pipette tip every two wells, our 100 multichannel doesn't go to 2 decimal places so do 20.2 into each well
