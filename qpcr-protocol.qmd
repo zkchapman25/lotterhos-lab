@@ -12,7 +12,7 @@ This tutorial provides instructions for running a qPCR plate, used to investigat
 
 -   Disease positives (is this different?) (also from the company)
 
--   Oyster DNA tissue
+-   Extracted DNA - we are using eastern oyster (*C. virginica*) tissue in this protocol
 
 -   Two rolls of different colored tapes
 
@@ -20,9 +20,9 @@ This tutorial provides instructions for running a qPCR plate, used to investigat
 
 -   6 sets of PCR strip tube caps
 
--   1 1.5ml DNA LoBind tube
+-   1x 1.5ml DNA LoBind tube per plate
 
--   Strip tube holder
+-   Strip tube rack
 
 -   Multichannel pipette
 
@@ -30,7 +30,7 @@ This tutorial provides instructions for running a qPCR plate, used to investigat
 
 -   Pipette tips
 
--   Buffer TE
+-   1x TE Buffer
 
 -   Molecular grade H2O
 
