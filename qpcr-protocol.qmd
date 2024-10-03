@@ -10,7 +10,7 @@ This tutorial provides instructions for running a qPCR plate, used to investigat
 
 -   Standard stocks (from the company)
 
--   Disease positives (is this different?) (also from the company)
+-   Disease positives (also from the company)
 
 -   Extracted DNA - we are using eastern oyster (*C. virginica*) tissue in this protocol
 
@@ -39,15 +39,12 @@ This tutorial provides instructions for running a qPCR plate, used to investigat
 -   anything?
 :::
 
-##### Setting up
-The first step in the protocol is to set up your work station in the hood and sterilize your equipment
-
 ::: {.callout-important}
 ## Scale + Level
 
 :::
 
-##### **Photograph Protocol** 
+##### **Prepping the Hood** 
 1. Tape off a section of the hood dedicated to parasite handling and label it 'Parasite' to reduce the risk of contamination
 
 2. Place all of your work materials (pipettes, tips, etc.) in the hood to be sterilized
