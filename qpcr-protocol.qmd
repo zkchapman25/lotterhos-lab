@@ -2,7 +2,7 @@
 title: "qPCR protocol"
 ---
 
-## ImageJ & Mapping Oyster Shells
+## qPCR
 ##### Co-authored by Zoe Chapman (Fall 2024 Co-op)
 This tutorial provides instructions for running a qPCR plate, used to investigate disease prevalence of microparasites in the eastern oyster gill tissue.
 
